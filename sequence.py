@@ -4,3 +4,5 @@
 # Next number in sequence is the sum of the previous three numbers
 
 # Print the sequence
+
+n = int(input("Enter the length of the sequence: ")) # Do not change this line
