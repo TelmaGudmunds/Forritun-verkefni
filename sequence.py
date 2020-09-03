@@ -11,5 +11,6 @@ previous_1 = 2
 previous_2 = 1
 previous_3 = 0
 
-
+print(previous_2)
+print(previous_1)
 
