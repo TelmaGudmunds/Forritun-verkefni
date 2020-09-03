@@ -7,8 +7,9 @@
 
 n = int(input("Enter the length of the sequence: ")) # Do not change this line
 next_in_sequence = 0
-previous_1 = 0
-previous_2 = 0
+previous_1 = 2
+previous_2 = 1
+previous_3 = 0
 
 
 
