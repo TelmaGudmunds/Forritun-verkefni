@@ -14,3 +14,9 @@ previous_3 = 0
 print(previous_2)
 print(previous_1)
 
+for i in range(n-2):
+    next_in_sequence = previous_1 + previous_2 + previous_3 # Find the next number in sequence
+    previous_1, previous_2, previous_3 = next_in_sequence, previous_1, previous_2 # Find the previous three numbers in sequence
+
+    print(next_in_sequence)
+
